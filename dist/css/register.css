@@ -1,0 +1,28 @@
+.regcont {
+  
+    display: flex;
+      flex-direction: column;
+      align-items: center;
+      align-content: center;
+      margin-left: 270px;
+      margin-top: 50px;
+      width: 600px;
+      height: 570px;
+      background-color: rgb(238, 241, 240);
+      border-radius: 15px;
+      box-shadow: 10px 10px 10px grey;
+  }
+  #f1{
+    border-style:solid;
+    border-width: 1px;
+    border-radius: 5px;
+    padding-left: 1em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    font-weight:normal;
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 29.5em;
+    height: 2.7em;
+  }
